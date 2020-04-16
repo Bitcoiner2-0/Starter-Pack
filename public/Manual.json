@@ -6,7 +6,7 @@
   "icons": [
     {
       "sizes": "8x8 16x16 24x24 32x32 64x64",
-      "src": "favicon.ico",
+      "src": "brand.ico",
       "type": "image/x-icon"
     }
   ],
