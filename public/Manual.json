@@ -1,15 +1,15 @@
 {
-  "short_name": "Starter Pack",
-  "name": "Crypto-Advice Starter Pack",
-  "icons": [
-    {
-      "src": "favicon.ico",
-      "type": "image/x-icon",
-      "sizes": "64x64 32x32 24x24 16x16 8x8"
-    }
-  ],
+  "short_name": "Blockchain Starter Pack",
+  "name": "Crypto-Advice",
   "start_url": ".",
   "display": "standalone",
+  "icons": [
+    {
+      "sizes": "8x8 16x16 24x24 32x32 64x64",
+      "src": "favicon.ico",
+      "type": "image/x-icon"
+    }
+  ],
   "theme_color": "#000000",
   "background_color": "#ffffff"
 }
